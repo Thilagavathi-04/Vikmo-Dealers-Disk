@@ -31,7 +31,7 @@ Vikmo DealerDesk is a Django REST API for automotive parts dealer operations. It
 Clone the repository and enter the project directory:
 
 ```bash
-git clone https://github.com/Jslxh/vikmo.git
+git clone https://github.com/Thilagavathi-04/Vikmo-Dealers-Disk.git
 cd vikmo
 ```
 
